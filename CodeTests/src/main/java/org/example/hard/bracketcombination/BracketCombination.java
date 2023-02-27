@@ -1,4 +1,4 @@
-package org.example.easy.bracketcombination;
+package org.example.hard.bracketcombination;
 
 public class BracketCombination {
 

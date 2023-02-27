@@ -2,7 +2,7 @@ package org.example.bracketcombination;
 
 import org.junit.jupiter.api.Test;
 
-import static org.example.easy.bracketcombination.BracketCombination.*;
+import static org.example.hard.bracketcombination.BracketCombination.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class BracketCombinationTest {
