@@ -9,6 +9,8 @@ class CharacterOccurenceTest {
     @Test
     void characterOccurence() {
         assertEquals("DEF", CharacterOccurence.execute("AABBCCDEFGG"));
+        assertEquals("", CharacterOccurence.execute("AAAAAAA"));
+        assertEquals("BCDEF", CharacterOccurence.execute("AABCAADEF"));
     }
 
 }
