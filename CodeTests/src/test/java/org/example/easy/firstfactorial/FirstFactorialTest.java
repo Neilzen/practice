@@ -1,4 +1,4 @@
-package org.example.firstfactorial;
+package org.example.easy.firstfactorial;
 
 import org.junit.jupiter.api.Test;
 

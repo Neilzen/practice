@@ -1,4 +1,4 @@
-package org.example.findintersection;
+package org.example.easy.findintersection;
 
 import org.example.easy.findintersection.FindIntersection;
 import org.junit.jupiter.api.Test;

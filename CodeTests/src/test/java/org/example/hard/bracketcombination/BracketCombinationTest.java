@@ -1,4 +1,4 @@
-package org.example.bracketcombination;
+package org.example.hard.bracketcombination;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package org.example.codelandusernamevalidation;
+package org.example.easy.codelandusernamevalidation;
 
 import org.example.easy.codelandusernamevalidation.CodelandUsernameValidation;
 import org.junit.jupiter.api.Test;

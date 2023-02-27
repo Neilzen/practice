@@ -1,4 +1,4 @@
-package org.example.characteroccurence;
+package org.example.easy.characteroccurence;
 
 import org.example.easy.characteroccurence.CharacterOccurence;
 import org.junit.jupiter.api.Test;
