@@ -2,7 +2,7 @@ package org.example.firstfactorial;
 
 import org.junit.jupiter.api.Test;
 
-import static org.example.firstfactorial.FirstFactorial.execute;
+import static org.example.easy.firstfactorial.FirstFactorial.execute;
 import static org.junit.jupiter.api.Assertions.*;
 
 class FirstFactorialTest {

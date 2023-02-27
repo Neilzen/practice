@@ -1,5 +1,6 @@
 package org.example.characteroccurence;
 
+import org.example.easy.characteroccurence.CharacterOccurence;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package org.example.codelandusernamevalidation;
+package org.example.easy.codelandusernamevalidation;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

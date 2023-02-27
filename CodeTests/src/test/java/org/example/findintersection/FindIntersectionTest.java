@@ -1,5 +1,6 @@
 package org.example.findintersection;
 
+import org.example.easy.findintersection.FindIntersection;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

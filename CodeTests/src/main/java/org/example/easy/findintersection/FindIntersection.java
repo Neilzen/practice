@@ -1,4 +1,4 @@
-package org.example.findintersection;
+package org.example.easy.findintersection;
 
 import java.util.*;
 import java.util.stream.Collectors;

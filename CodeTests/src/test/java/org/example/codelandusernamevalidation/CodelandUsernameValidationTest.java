@@ -1,5 +1,6 @@
 package org.example.codelandusernamevalidation;
 
+import org.example.easy.codelandusernamevalidation.CodelandUsernameValidation;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

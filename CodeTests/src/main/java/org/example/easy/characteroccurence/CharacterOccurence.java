@@ -1,4 +1,4 @@
-package org.example.characteroccurence;
+package org.example.easy.characteroccurence;
 
 import java.util.HashSet;
 import java.util.Set;
